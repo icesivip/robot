@@ -1,7 +1,0 @@
-The main collaborators of this project are:
-Miguel Martinez
-Santiago Meza
-Gerardo Mera
-Juan David Carvajal
-
-Description: The goal of the project is to come up with a prototype robot that is able to classify a variety of materials, using Fishertechnik Framework.
