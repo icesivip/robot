@@ -1,2 +1,2 @@
 # SPART
-SPART stands for Simulation, Programming, Automatization and Robotic Team
+SPART stands for Simulation, Programming, Automation and Robotic Team
