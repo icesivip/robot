@@ -1,2 +1,2 @@
-# ROBOT
-ROBOT stands for Research On Building industrial Operation Technologies
+# SPART
+SPART stands for Simulation, Programming, Automatization and Robotic Team
